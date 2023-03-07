@@ -1,0 +1,1 @@
+First git repo created in the git bash locally
